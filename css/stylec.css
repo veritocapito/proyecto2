@@ -1,0 +1,19 @@
+header {
+    background-color: black;
+}
+
+h1 {
+  text-align: left;
+  padding: 1%;
+}
+
+ul li {
+  font-style: italic;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+form {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 5%;
+  margin: 1%;
+}
